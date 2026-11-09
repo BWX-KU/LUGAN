@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">路感</string>
+    <string name="offline_title">暂时连不上路感</string>
+    <string name="offline_desc">请检查网络后重试。页面外壳已缓存，联网后会自动恢复实时同步。</string>
+    <string name="retry">重新加载</string>
+</resources>
